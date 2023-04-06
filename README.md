@@ -21,4 +21,4 @@ Study C# 리포지토리
 3일차 윈폼 학습 결과
 
 <img
-src="" width ="700">
+src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winforms01.PNG" width ="700">
