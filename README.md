@@ -17,3 +17,8 @@ Study C# 리포지토리
 - Win App
 	- WinForms 컨트롤
 	- 리스트뷰, 데이터그리드 추가학습필요
+
+3일차 윈폼 학습 결과
+
+<img
+src="" width ="700">
