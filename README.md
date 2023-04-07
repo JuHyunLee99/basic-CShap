@@ -22,3 +22,18 @@ Study C# 리포지토리
 
 <img
 src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winforms01.PNG" width ="700">
+
+## 4일차
+- c# 기본
+	- 클래스 상속 계속
+- Win App
+	- WinForms 컨트롤 마무리
+	- WinForms 파일복사 앱
+	- 로그인 앱 실습
+	
+## 5일차
+- C# 기본
+- Win App
+	- WinForms 디자인 오류시 해결방법
+	- Window 탐색기 만들기
+	
