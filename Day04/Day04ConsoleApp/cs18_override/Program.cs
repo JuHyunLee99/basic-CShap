@@ -57,7 +57,7 @@ namespace cs18_override
 
             Console.WriteLine("워머신 생산");
             ArmorSuite machine = new WarMachine();
-            machine.Init();
+            machine.Init(); // 오버라이딩한거 출력
 
             Console.WriteLine("아이어맨 생산");
             IronMan iron = new IronMan();

@@ -9,7 +9,7 @@ namespace cs19_interface
 {
     interface ILogger
     {   
-        // 구현부 없음, public으로 선언
+        // 구현부 없음(선언만!, 구현은 클래스에서), public으로 선언
         void WriteLog(string log);
     }
 
@@ -18,7 +18,7 @@ namespace cs19_interface
         void WriteLog(string format, params object[] args);
     }
 
-    class ConsoleLogger : ILogger
+    class ConsoleLogger : ILogger   // 구현
     {
         public void WriteLog(string log)
         {
@@ -77,7 +77,7 @@ namespace cs19_interface
     {
         static void Main(string[] args)
         {
-            // 인터페이스 생성 불가(참조는 가능)
+            // 인터페이스는 인스턴스 생성 불가(참조는 가능)
             //ILogger logger = new ILogger();
             // 인터페이스를 상속받는 클래스의 인스턴스 생성은 가능
             ILogger logger = new ConsoleLogger();
