@@ -39,3 +39,8 @@ src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winfo
 	- WinForms 디자인 오류시 해결방법
 	- Window 탐색기 만들기
 	
+5일차 윈폼 학습 결과  
+
+<img
+src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winforms07.png" width="700">
+	
