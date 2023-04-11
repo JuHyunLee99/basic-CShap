@@ -61,4 +61,4 @@ src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winfo
 	
 6일차 탐색기 만들기 완료
 <img
-src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winforms07.png" width="700">
+src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winforms03.png" width="700">
