@@ -59,6 +59,7 @@ src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winfo
 		- 리스트뷰 폴더더블클릭 하위폴더 표시
 	- DB핸들링
 	
-6일차 탐색기 만들기 완료
+6일차 탐색기 만들기 완료  
+
 <img
 src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winforms03.png" width="700">
