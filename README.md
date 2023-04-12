@@ -63,3 +63,13 @@ src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winfo
 
 <img
 src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winforms03.png" width="700">
+
+## 7일차
+- C# 기본
+	- 대리자, 이벤트
+	- 람다식
+	- 애트리뷰트
+
+- Win App
+	- DB핸들링
+	- SDI vs MDI
