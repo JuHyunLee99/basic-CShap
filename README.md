@@ -85,6 +85,8 @@ src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winfo
 		- MySQL.Data Lib DB연동
 	
 심플 메모장  
+<img
+src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/notepad.PNG" width="700">
 
 ## 9일차
 - C# 기본
