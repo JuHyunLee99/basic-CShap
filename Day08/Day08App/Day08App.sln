@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf13_bookrentalshop", "wf13
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf12_notepad", "wf12_notepad\wf12_notepad.csproj", "{381B54EB-90DD-43C1-947A-D3D782C8BE17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs29_filehandling", "cs29_filehandling\cs29_filehandling.csproj", "{F72CF0B4-4969-4AD1-A07D-3682BC798A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs30_filereadwrite", "cs30_filereadwrite\cs30_filereadwrite.csproj", "{D153F281-F406-42C3-9484-41F0D45CFD9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{381B54EB-90DD-43C1-947A-D3D782C8BE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{381B54EB-90DD-43C1-947A-D3D782C8BE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{381B54EB-90DD-43C1-947A-D3D782C8BE17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72CF0B4-4969-4AD1-A07D-3682BC798A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72CF0B4-4969-4AD1-A07D-3682BC798A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72CF0B4-4969-4AD1-A07D-3682BC798A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72CF0B4-4969-4AD1-A07D-3682BC798A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D153F281-F406-42C3-9484-41F0D45CFD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D153F281-F406-42C3-9484-41F0D45CFD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D153F281-F406-42C3-9484-41F0D45CFD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D153F281-F406-42C3-9484-41F0D45CFD9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
