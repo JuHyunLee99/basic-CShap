@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf14_winforms_thread", "wf14_winforms_thread\wf14_winforms_thread.csproj", "{55665D9D-2C7B-4F31-8A21-9305011A7F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wf13_bookrentalshop", "wf13_bookrentalshop\wf13_bookrentalshop.csproj", "{77D4337F-8120-40E8-9A85-841F8A9372DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55665D9D-2C7B-4F31-8A21-9305011A7F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55665D9D-2C7B-4F31-8A21-9305011A7F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55665D9D-2C7B-4F31-8A21-9305011A7F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55665D9D-2C7B-4F31-8A21-9305011A7F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D4337F-8120-40E8-9A85-841F8A9372DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D4337F-8120-40E8-9A85-841F8A9372DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D4337F-8120-40E8-9A85-841F8A9372DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D4337F-8120-40E8-9A85-841F8A9372DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6761A6D3-387D-4EA2-9DA1-01FC37294D06}
+	EndGlobalSection
+EndGlobal
