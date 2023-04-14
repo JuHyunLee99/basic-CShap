@@ -73,3 +73,23 @@ src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/winfo
 - Win App
 	- DB핸들링
 	- SDI vs MDI
+	
+## 8일차
+- C# 기본
+	- 메모장 만들기(파일핸들링)
+
+
+- Win App
+	- BookRentalShop DB 사용 WinForms 앱개발
+		- WinForms MDI
+		- MySQL.Data Lib DB연동
+	
+심플 메모장  
+
+## 9일차
+- C# 기본
+	- 스레드/태스크
+	- 가비지 컬렉션
+	
+- Win App
+	- BookRentalShop 만들기 계속
