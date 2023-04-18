@@ -102,6 +102,6 @@ src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/notep
 
 - 코딩테스트
 
-10일차 책대여점 프로그램
+10일차 책대여점 프로그램  
 <img
 src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/bookrentalshop.png" width="700">
