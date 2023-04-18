@@ -104,4 +104,4 @@ src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/notep
 
 10일차 책대여점 프로그램
 <img
-src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/notepad.PNG" width="700">
+src="https://raw.githubusercontent.com/JuHyunLee99/basic-CShap/main/images/bookrentalshop.png" width="700">
